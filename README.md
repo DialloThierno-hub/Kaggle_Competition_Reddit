@@ -19,9 +19,9 @@ Cette archive est constitué :
 Voici la liste des différentes features implémentées et l'intuition transmise
 
 ### features textes :
-	-Analyse de sentiments : un texte contient un sentiment en fonction de deux critères, la subjectivité (intensité de l'opinion de l'auteur) et la polorité (le niveau de l'émotion transmise)
+	- Analyse de sentiments : un texte contient un sentiment en fonction de deux critères, la subjectivité (intensité de l'opinion de l'auteur) et la polorité (le niveau de l'émotion transmise)
 				Donc plus un message est subjectif et dégage un sentiment positif, plus il est susceptible d'avoir un bon score
-	-Recherche de topics : un commentaire peut appartenir à plusieurs topics, donc plus il est étendu, plus il a un bon score
+	- Recherche de topics : un commentaire peut appartenir à plusieurs topics, donc plus il est étendu, plus il a un bon score
 
 ### features réseaux :
 
