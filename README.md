@@ -6,8 +6,8 @@ Predicted the popularity of a Reddit comment using text analysis (NLP) and netwo
 1. Architecture
 Cette archive est constitué :
 	- d'un dossier Notebooks contenant nos différents codes avec :
-		-handling_body implémentant des features textes (sur la variable body)
-		-handling_links implémentant des features réseaux en fonction des variables name, link_id et parent_id
+		- handling_body implémentant des features textes (sur la variable body)
+		- handling_links implémentant des features réseaux en fonction des variables name, link_id et parent_id
 		-handling_merged implémentant les features textes et réseaux utilisées précédemment
 		-handling_authors implémentant des features réseaux en fonction de la variable author
 	
